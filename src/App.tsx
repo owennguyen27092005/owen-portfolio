@@ -642,17 +642,9 @@ export default function App() {
 
       {/* Footer */}
       <footer className="border-t border-white/10 py-8 text-center text-sm text-white/40 mt-12">
-        <p>
-          &copy; {new Date().getFullYear()} Owen Nguyen. Designed by{" "}
-          <a
-            href="https://ahnaflabib.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-white/60 underline-offset-2 hover:text-[#f97316] hover:underline transition-colors"
-          >
-            Ahnaf Labib
-          </a>
-          .
+       <p>
+          &copy; {new Date().getFullYear()} Owen Nguyen. All rights reserved.
+        </p>
         </p>
       </footer>
     </div>
