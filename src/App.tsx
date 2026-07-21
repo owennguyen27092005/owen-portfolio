@@ -200,7 +200,7 @@ export default function App() {
               initial={{ opacity: 0, x: -20 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
-              className="w-full md:w-1/3 flex justify-center"
+              className="w-full md:w-2/5 flex justify-center"
             >
               <div className="relative w-64 h-80 md:w-full md:h-[400px] rounded-2xl overflow-hidden border border-white/10 shadow-2xl group">
                 <img 
@@ -281,11 +281,11 @@ export default function App() {
                     <ul className="mt-6 pl-4 border-l border-white/20 space-y-4">
                       <li className="text-white text-base leading-relaxed pl-5 relative timeline-bullet">
                         <strong>Relevant Coursework:</strong>{' '}
-                        Business Analytics III, TPS: Data Visualization/Tableau, Money Banking, Financial Accounting, Corporate Finance, Investment Analysis & Portfolio Management, Managerial Accounting, Econometrics.
+                        Financial Accounting, Managerial Accounting, Corporate Finance, Investment Analysis & Portfolio Management, Econometrics, Business Analytics III, Organizational Behavior Analytics and AI, Tps: Data Visualization in Tableau.
                       </li>
                       <li className="text-white text-base leading-relaxed pl-5 relative timeline-bullet">
                         <strong>Honors & Awards:</strong>{' '}
-                        DePauw Distinguished Scholarship ($44k/yr), DePauw Consulting Case Competition (3rd Place), NCAA Analytics Challenge 2026 (Top 3 Finalist).
+                        Dean's List, DePauw Distinguished Scholarship, DePauw Consulting Case Competition 2025 (3rd Place), NCAA Analytics Challenge 2026 (Top 3 Finalist), Stout’s FLF Valuation Advisory Case Competition (1st Place).
                       </li>
                       <li className="text-white text-base leading-relaxed pl-5 relative timeline-bullet">
                         <strong>Certifications:</strong>{' '}
