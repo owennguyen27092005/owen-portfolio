@@ -337,13 +337,13 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Process 100+ daily card and institutional meal plan transactions, ensuring Point-of-Sale compliance and maintaining transaction verification controls across digital payment systems
+                  Built financial health assessment workflows for 2+ nonprofit client engagements by organizing operational datasets, reviewing financial statements, and synthesizing performance insights into client-ready materials
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Perform end-of-day reconciliation by matching POS reports with card processor settlements, identifying and resolving discrepancies to maintain 99%+ revenue accuracy and same-day financial close
+                  Developed Excel-based financial analysis models tracking 8+ key financial indicators, YoY trends, and 3-year base/best/worst forecasts to identify revenue concentration, liquidity gaps, operating risks, and growth opportunities
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Built Excel-based reconciliation tracking templates to monitor transaction breaks and settlement discrepancies, reducing manual review time by 20% and improving reporting efficiency
+                  Leveraged AI tools such as Claude and ChatGPT to structure benchmark research, extract information from financial reports, and prepare executive summaries, validating outputs against original sources and reducing manual synthesis time by 30%
                 </li>
               </ul>
             </motion.div>
