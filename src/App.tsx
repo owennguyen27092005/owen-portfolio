@@ -281,10 +281,10 @@ export default function App() {
                     <ul className="mt-6 pl-4 border-l border-white/20 space-y-4">
                       <li className="text-white text-base leading-relaxed pl-5 relative timeline-bullet">
                         <strong>Relevant Coursework:</strong>{' '}
-                        Financial Accounting, Managerial Accounting, Corporate Finance, Investment Analysis & Portfolio Management, Econometrics, Business Analytics III, Organizational Behavior Analytics and AI, Tps: Data Visualization in Tableau.
+                        Financial Accounting, Managerial Accounting, Corporate Finance, Investment Analysis & Portfolio Management, Econometrics, Money Banking, Business Analytics III, Organizational Behavior Analytics and AI, Tps: Data Visualization in Tableau.
                       </li>
                       <li className="text-white text-base leading-relaxed pl-5 relative timeline-bullet">
-                        <strong>Honors & Awards:</strong>{' '}
+                        <strong>Honors & Achievements:</strong>{' '}
                         Dean's List, DePauw Distinguished Scholarship, DePauw Consulting Case Competition 2025 (3rd Place), Top 3 Finalist NCAA Analytics Challenge 2026, Stout’s FLF Valuation Advisory Case Competition (1st Place).
                       </li>
                       <li className="text-white text-base leading-relaxed pl-5 relative timeline-bullet">
