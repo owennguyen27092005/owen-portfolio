@@ -202,7 +202,7 @@ export default function App() {
               viewport={{ once: true }}
               className="w-full md:w-2/5 flex justify-center"
             >
-              <div className="relative w-64 h-80 md:w-full md:h-[460px] rounded-2xl overflow-hidden border border-white/10 shadow-2xl group">
+              <div className="relative w-64 h-80 md:w-full md:h-[400px] rounded-2xl overflow-hidden border border-white/10 shadow-2xl group">
                 <img 
                   src="/headshot.jpg" 
                   alt="Owen Nguyen" 
