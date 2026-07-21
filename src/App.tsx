@@ -327,7 +327,7 @@ export default function App() {
                   <img
                     src="/BBS Logo.jpg"
                     alt=""
-                    className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0 border border-white/10"
+                    className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
                     aria-hidden
                   />
                   <span>Bridge Builder Strategies</span>
