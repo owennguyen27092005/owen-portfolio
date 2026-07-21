@@ -345,6 +345,15 @@ export default function App() {
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                   Leveraged AI tools such as Claude and ChatGPT to structure benchmark research, extract information from financial reports, and prepare executive summaries, validating outputs against original sources and reducing manual synthesis time by 30%
                 </li>
+                 <p className="text-highlight text-base font-semibold italic mt-5 mb-3">
+                  BRIDGE Project: Strategic Pricing & Revenue Forecasting Framework
+                </p>
+                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+                  Analyzed historical pricing, project revenue, service costs, and market benchmarks across BBS offerings to identify pricing inconsistencies, profitability drivers, and revenue improvement opportunities
+                </li>
+                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+                  Built an Excel-based pricing and revenue forecasting model incorporating client size, service complexity, margin targets, market penetration scenarios, and ATAR assumptions to support management pricing and growth decisions
+                </li>
               </ul>
             </motion.div>
 
@@ -589,7 +598,7 @@ export default function App() {
                 <strong className="text-white font-semibold">Financial Analysis:</strong> GAAP, Financial statement analysis (IS/BS/CF), working capital, income tax, depreciation, debt schedules, coverage metrics (DSCR / interest coverage), profitability analysis, risk assessment, basic DCF & comparables, basic LBO modeling
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                <strong className="text-white font-semibold">Programming & Visualization:</strong> Python (Pandas for data cleaning and analysis), SQL (basic queries), Tableau (dashboard creation)
+                <strong className="text-white font-semibold">Programming & Visualization:</strong> Python (Pandas for data cleaning and analysis), SQL (basic queries), Tableau (dashboard creation), Claude (Claude Code, LLMs)
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                 <strong className="text-white font-semibold">Market Data Tools:</strong> Bloomberg Terminal, Capital IQ, SEC EDGAR, FRED, Yahoo Finance
