@@ -645,7 +645,6 @@ export default function App() {
        <p>
           &copy; {new Date().getFullYear()} Owen Nguyen. All rights reserved.
         </p>
-        </p>
       </footer>
     </div>
   );
