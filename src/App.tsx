@@ -525,7 +525,7 @@ export default function App() {
                 <span className="text-white/60 text-base mt-1 md:mt-0">Aug 2025 - May 2025</span>
               </div>
               <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
-                <div className="text-xl text-white font-medium">The DePauw Consulting Group <span className="text-white/50 text-base ml-2 font-normal">| Greencastle, IN</span></div>
+                <div className="text-xl text-white font-medium"> DePauw Consulting Group <span className="text-white/50 text-base ml-2 font-normal">| Greencastle, IN</span></div>
               </div>
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
@@ -541,7 +541,7 @@ export default function App() {
               </ul>
             </motion.div>
 
-            {/* The DePauw Investment Group */}
+            {/* DePauw Investment Group */}
             <motion.div 
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
