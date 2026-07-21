@@ -345,7 +345,7 @@ export default function App() {
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                   Leveraged AI tools such as Claude and ChatGPT to structure benchmark research, extract information from financial reports, and prepare executive summaries, validating outputs against original sources and reducing manual synthesis time by 30%
                 </li>
-                 <p className="text-highlight text-base font-semibold italic mt-5 mb-3">
+                 <p className="text-white text-xl font-semibold italic mt-5 mb-3">
                   BRIDGE Project: Strategic Pricing & Revenue Forecasting Framework
                 </p>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
