@@ -521,8 +521,8 @@ export default function App() {
               className="relative"
             >
               <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-2">
-                <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Executive Team Members</h3>
-                <span className="text-white/60 text-base mt-1 md:mt-0">Aug 2025 - May 2025</span>
+                <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Co-President</h3>
+                <span className="text-white/60 text-base mt-1 md:mt-0">Aug 2025 - Present</span>
               </div>
               <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
                 <div className="text-xl text-white font-medium"> DePauw Consulting Group <span className="text-white/50 text-base ml-2 font-normal">| Greencastle, IN</span></div>
@@ -530,13 +530,13 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Lead workshops and case prep sessions to develop analytical and presentation skills for 60+ members.
+                  Built a pipeline of 10+ alumni networking events, case workshops, and career sessions, connecting 80+ students with consultants, recruiters, and business professionals to expand access to consulting and finance career opportunities.
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Coordinate recruitment cycles and drive alumni engagement initiatives, connecting current students with 10+ alumni in top-tier finance and consulting roles.
+                  Coordinated outreach, event logistics, and follow-up communication with alumni and corporate partners, increasing member engagement by 35% while strengthening the group’s relationship-driven programming and event execution.
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Support internal strategy and oversee the quality of deliverables for pro-bono consulting projects.
+                  Developed company briefs, research materials, and case preparation resources for 5 student teams, helping members strengthen business problem-solving skills and prepare for consulting-style projects and competitions.
                 </li>
               </ul>
             </motion.div>
@@ -582,16 +582,19 @@ export default function App() {
           <div className="max-w-4xl mx-auto">
             <ul className="space-y-6 pl-5 border-l-2 border-white/10 ml-2">
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                <strong className="text-white font-semibold">Advanced Excel:</strong> Pivot Tables, XLOOKUP / INDEX-MATCH, SUMIFS, data cleaning, reconciliation templates, sensitivity & scenario table
+                <strong className="text-white font-semibold">Advanced Excel:</strong> Pivot Tables, XLOOKUP / INDEX-MATCH, SUMIFS, data cleaning, reconciliation templates, sensitivity & scenario tables
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                <strong className="text-white font-semibold">Financial Analysis:</strong> Financial statement analysis (IS/BS/CF), working capital, debt schedules, coverage metrics (DSCR / interest coverage), basic DCF & comparables
+                <strong className="text-white font-semibold">Financial Analysis:</strong> GAAP, Financial statement analysis (IS/BS/CF), working capital, income tax, depreciation, debt schedules, coverage metrics (DSCR / interest coverage), profitability analysis, risk assessment, basic DCF & comparables, basic LBO modeling
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                 <strong className="text-white font-semibold">Programming & Visualization:</strong> Python (Pandas for data cleaning and analysis), SQL (basic queries), Tableau (dashboard creation)
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                <strong className="text-white font-semibold">Market Data Tools:</strong> Bloomberg Terminal, Capital IQ
+                <strong className="text-white font-semibold">Market Data Tools:</strong> Bloomberg Terminal, Capital IQ, SEC EDGAR, FRED, Yahoo Finance
+              </li>
+              <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+                <strong className="text-white font-semibold">Interests:</strong> Playing basketball, golf, traveling (have been to 20+ countries), learning new languages and cooking
               </li>
             </ul>
           </div>
