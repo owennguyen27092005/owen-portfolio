@@ -320,18 +320,18 @@ export default function App() {
             >
               <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-2">
                 <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Finance & Strategy Intern</h3>
-                <span className="text-white/60 text-base mt-1 md:mt-0">Sep 2024 - May 2025</span>
+                <span className="text-white/60 text-base mt-1 md:mt-0">Jun 2026 - Present</span>
               </div>
               <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
                 <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xl text-white font-medium min-w-0">
                   <img
                     src="/BBS Logo.jpg"
                     alt=""
-                    className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-cover shrink-0 border border-white/10"
+                    className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0 border border-white/10"
                     aria-hidden
                   />
-                  <span>Bon Appétit Management Company</span>
-                  <span className="text-white/50 text-base font-normal">| Greencastle, IN</span>
+                  <span>Bridge Builder Strategies</span>
+                  <span className="text-white/50 text-base font-normal">| Indianapolis, IN</span>
                 </div>
               </div>
               
