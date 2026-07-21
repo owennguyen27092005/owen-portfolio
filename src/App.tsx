@@ -363,7 +363,7 @@ export default function App() {
                     className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0"
                     aria-hidden
                   />
-                  <span>VRB Bank</span>
+                  <span>Vietnam-Russia Joint Venture Bank</span>
                   <span className="text-white/50 text-base font-normal">| Hanoi, Vietnam</span>
                 </div>
               </div>
