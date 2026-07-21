@@ -320,7 +320,7 @@ export default function App() {
             >
               <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-2">
                 <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Cash Specialist</h3>
-                <span className="text-white/60 text-base mt-1 md:mt-0">Sep 2024 - Present</span>
+                <span className="text-white/60 text-base mt-1 md:mt-0">Sep 2024 - May 2025</span>
               </div>
               <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
                 <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xl text-white font-medium min-w-0">
