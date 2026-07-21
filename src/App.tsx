@@ -1,6 +1,7 @@
 import { useState, useEffect, type MouseEvent } from 'react';
 import { motion } from 'motion/react';
 import { ArrowRight, Mail, Linkedin, ExternalLink, ChevronRight } from 'lucide-react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 const navLinks = [
   { name: 'About', href: '#about' },
@@ -650,6 +651,9 @@ export default function App() {
           &copy; {new Date().getFullYear()} Owen Nguyen. All rights reserved.
         </p>
       </footer>
+      
+      {/* Vercel Speed Insights */}
+      <SpeedInsights />
     </div>
   );
 }
