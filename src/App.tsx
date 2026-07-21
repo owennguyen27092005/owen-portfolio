@@ -344,7 +344,7 @@ export default function App() {
               </ul>
             </motion.div>
 
-            {/* VRB Bank */}
+            {/* Vietnam-Russia Joint Venture Bank */}
             <motion.div 
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
