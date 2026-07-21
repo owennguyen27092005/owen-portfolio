@@ -436,7 +436,7 @@ export default function App() {
           </motion.h2>
 
           <div className="flex md:justify-center gap-6 overflow-x-auto snap-x snap-mandatory hide-scrollbar py-8 px-4 -mx-4">
-            {/* Harvard M&A */}
+            {/* Harvard M&A Global Case Competition 2026 */}
             <motion.div 
               initial={{ opacity: 0, scale: 0.95 }}
               whileInView={{ opacity: 1, scale: 1 }}
@@ -467,7 +467,7 @@ export default function App() {
               </div>
             </motion.div>
 
-            {/* CFA Research Challenge */}
+            {/* CFA Research Challenge 2025-2026 */}
             <motion.div 
               initial={{ opacity: 0, scale: 0.95 }}
               whileInView={{ opacity: 1, scale: 1 }}
