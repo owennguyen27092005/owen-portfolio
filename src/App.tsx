@@ -614,7 +614,7 @@ export default function App() {
             transition={{ delay: 0.1 }}
             className="text-white/60 text-lg mb-12 max-w-2xl mx-auto"
           >
-            Currently seeking opportunities in investment banking, financial analysis, data analysis, and corporate finance. Available for full-time roles and internships.
+            Currently seeking opportunities in corporate finance, FP&A, valuation, M&A, and strategy. Available for full-time, part-time roles and internships.
           </motion.p>
           
           <motion.div 
