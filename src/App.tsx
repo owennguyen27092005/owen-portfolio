@@ -204,7 +204,7 @@ export default function App() {
             >
               <div className="relative w-64 h-80 md:w-full md:h-[400px] rounded-2xl overflow-hidden border border-white/10 shadow-2xl group">
                 <img 
-                  src="/owen-about.png" 
+                  src="/headshot.jpg" 
                   alt="Owen Nguyen" 
                   className="object-cover object-top origin-top w-full h-full transition-transform duration-500 group-hover:scale-105"
                   onError={(e) => {
@@ -222,7 +222,7 @@ export default function App() {
               className="w-full md:w-2/3 space-y-6 text-white/80 text-lg leading-relaxed"
             >
               <p>
-                Hi! I’m <span className="text-highlight font-medium">Owen Nguyen</span>, an Economics and Business Analytics student at DePauw University with a strong interest in financial markets, investing, and global business. My journey began with a curiosity about how markets move and how investment decisions shape companies and economies.
+                Hi! I’m <span className="text-highlight font-medium">Owen Nguyen</span>, an Economics and Business Analytics student at DePauw University with a strong interest in finance, enterprise growth, and global business. My journey started from wanting to understand how companies improve, grow across markets, and make better strategic and investment decisions.
               </p>
               <p>
                 Professionally, I have completed internships in both investment banking and commercial banking, gaining experience in equity analysis, portfolio monitoring, financial modeling, and credit underwriting. Through these experiences, I’ve worked on investment research, financial analysis, data analysis, M&A and supported deal evaluation across different financial institutions.
