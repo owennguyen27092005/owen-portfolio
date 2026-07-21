@@ -445,7 +445,7 @@ export default function App() {
             >
               <div className="p-6 flex-grow">
                 <div className="flex justify-between items-start mb-2">
-                  <h3 className="text-highlight text-xl font-heading font-semibold">Harvard M&A Global Case</h3>
+                  <h3 className="text-highlight text-xl font-heading font-semibold">Harvard M&A Global Case Competition 2026</h3>
                   <a href="https://drive.google.com/file/d/1PbO0nRUT8csDDOv5L4w-RdhxvUTqfimM/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-[#f97316] transition-colors mt-1" aria-label="View Harvard M&A Global Case Project">
                     <ExternalLink className="w-5 h-5" />
                   </a>
@@ -467,6 +467,7 @@ export default function App() {
               </div>
             </motion.div>
 
+            
             {/* CFA Research Challenge 2025-2026 */}
             <motion.div 
               initial={{ opacity: 0, scale: 0.95 }}
@@ -477,7 +478,7 @@ export default function App() {
             >
               <div className="p-6 flex-grow">
                 <div className="flex justify-between items-start mb-2">
-                  <h3 className="text-highlight text-xl font-heading font-semibold">CFA Research Challenge</h3>
+                  <h3 className="text-highlight text-xl font-heading font-semibold">CFA Research Challenge 2025-2026</h3>
                   <a href="https://drive.google.com/file/d/1GlxQrGDDAZhcFEOLiq0zIOmTGWDGv0Gs/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-[#f97316] transition-colors mt-1" aria-label="View CFA Research Challenge Project">
                     <ExternalLink className="w-5 h-5" />
                   </a>
