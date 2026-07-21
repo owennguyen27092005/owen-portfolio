@@ -285,7 +285,7 @@ export default function App() {
                       </li>
                       <li className="text-white text-base leading-relaxed pl-5 relative timeline-bullet">
                         <strong>Honors & Awards:</strong>{' '}
-                        Dean's List, DePauw Distinguished Scholarship, DePauw Consulting Case Competition 2025 (3rd Place), NCAA Analytics Challenge 2026 (Top 3 Finalist), Stout’s FLF Valuation Advisory Case Competition (1st Place).
+                        Dean's List, DePauw Distinguished Scholarship, DePauw Consulting Case Competition 2025 (3rd Place), Top 3 Finalist NCAA Analytics Challenge 2026, Stout’s FLF Valuation Advisory Case Competition (1st Place).
                       </li>
                       <li className="text-white text-base leading-relaxed pl-5 relative timeline-bullet">
                         <strong>Certifications:</strong>{' '}
@@ -521,8 +521,8 @@ export default function App() {
               className="relative"
             >
               <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-2">
-                <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Director of Internal Affairs</h3>
-                <span className="text-white/60 text-base mt-1 md:mt-0">Aug 2025 - Present</span>
+                <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Executive Team Members</h3>
+                <span className="text-white/60 text-base mt-1 md:mt-0">Aug 2025 - May 2025</span>
               </div>
               <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
                 <div className="text-xl text-white font-medium">The DePauw Consulting Group <span className="text-white/50 text-base ml-2 font-normal">| Greencastle, IN</span></div>
@@ -530,10 +530,10 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Lead workshops and case prep sessions to develop analytical and presentation skills for <strong>60+ members</strong>.
+                  Lead workshops and case prep sessions to develop analytical and presentation skills for 60+ members.
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Coordinate recruitment cycles and drive alumni engagement initiatives, connecting current students with <strong>10+ alumni</strong> in top-tier finance and consulting roles.
+                  Coordinate recruitment cycles and drive alumni engagement initiatives, connecting current students with 10+ alumni in top-tier finance and consulting roles.
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                   Support internal strategy and oversee the quality of deliverables for pro-bono consulting projects.
@@ -558,10 +558,10 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Managed an industrial fund with almost <strong>$76,000 AUM</strong> that included transportation, manufacturing, and technology equities.
+                  Managed an industrial fund with almost $76,000 AUM that included transportation, manufacturing, and technology equities.
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Led a team of <strong>3 analysts</strong> in weekly investment discussions, applying DCF and relative valuation frameworks to adjust portfolio strategy, contributing to a <strong>6% increase</strong> in portfolio value.
+                  Led a team of 3 analysts in weekly investment discussions, applying DCF and relative valuation frameworks to adjust portfolio strategy, contributing to a 6% increase in portfolio value.
                 </li>
               </ul>
             </motion.div>
