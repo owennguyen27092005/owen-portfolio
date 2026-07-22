@@ -459,16 +459,17 @@ export default function App() {
                 <p className="text-white/60 text-sm mb-4 italic">Thales–Rheinmetall Merger Analysis</p>
                 
                 <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
-                  <p><strong>Context:</strong> Evaluated the strategic rationale and financial feasibility of a proposed $91B merger between Thales and Rheinmetall in the defense sector.</p>
-                  <p><strong>Analysis:</strong> Modeled revenue synergies and evaluated backlog monetization strategies (~$76B). Conducted comprehensive valuation modeling including WACC sensitivity analysis.</p>
-                  <p><strong>Outcome:</strong> Delivered a structured pitch deck outlining the accretion/dilution impact, integration risks, and strategic positioning post-merger.</p>
+                  <p><strong>Context:</strong> Evaluated the strategic and financial feasibility of a proposed $91B merger between Thales and Rheinmetall, focusing on their positioning across the European aerospace and defense market..</p>
+                  <p><strong>Analysis:</strong> Assessed vertical integration opportunities, operational synergies, and recurring-revenue potential. Developed a cross-selling framework using Rheinmetall’s $76B defense backlog and analyzed modernization and digital-upgrade opportunities. Also performed peer benchmarking and WACC sensitivity analysis to evaluate transaction pricing and financing capacity.</p>
+                  <p><strong>Outcome:</strong> Identified potential value from expanded recurring revenue and stronger defense-market positioning, while highlighting key risks related to the acquisition premium, financing constraints, and post-merger integration.</p>
                 </div>
               </div>
               <div className="p-6 pt-0 mt-auto">
                 <div className="flex flex-wrap gap-2">
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">M&A</span>
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Valuation</span>
-                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Excel</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Financial Modeling</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Defense Strategy</span>
                 </div>
               </div>
             </motion.div>
@@ -492,15 +493,16 @@ export default function App() {
                 <p className="text-white/60 text-sm mb-4 italic">Allegion (NYSE: ALLE) Initiation of Coverage</p>
                 
                 <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
-                  <p><strong>Context:</strong> Participated in the global investment analysis competition, acting as a research analyst covering Allegion, a global security products provider.</p>
-                  <p><strong>Analysis:</strong> Conducted deep-dive industry analysis, peer benchmarking, and ESG evaluation. Built a comprehensive financial model including DCF and trading comparables.</p>
-                  <p><strong>Outcome:</strong> Developed a robust investment thesis supported by macroeconomic tailwinds and company-specific catalysts, presented in a professional initiation report.</p>
+                  <p><strong>Context:</strong> Led a five-student DePauw team in the CFA Institute’s global equity research competition, managing the research process and evaluating Allegion’s financial performance, competitive position, industry overview, and long-term growth prospects.</p>
+                  <p><strong>Analysis:</strong> Built a valuation supported by financial-statement analysis and long-term operating assumptions. Projected approximately 6% revenue CAGR and margin expansion based on pricing power, operating leverage, digital transformation, and recurring-revenue growth. Conducted peer benchmarking, ESG analysis, and industry research to test the investment thesis and downside risks.</p>
+                  <p><strong>Outcome:</strong> Issued a BUY recommendation with a $199 target price, representing 20.6% projected upside, and presented the findings through a professional equity-research report.</p>
                 </div>
               </div>
               <div className="p-6 pt-0 mt-auto">
                 <div className="flex flex-wrap gap-2">
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Equity Research</span>
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">DCF</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Market Research</span>
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">ESG</span>
                 </div>
               </div>
