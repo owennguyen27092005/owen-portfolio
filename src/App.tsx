@@ -456,7 +456,7 @@ export default function App() {
                     <ExternalLink className="w-5 h-5" />
                   </a>
                 </div>
-                <p className="text-white/60 text-sm mb-4 italic">Research Assistant - Economic Departure Faculty-Supervised Study</p>
+                <p className="text-white/60 text-sm mb-4 italic">Research Assistant — Economics Department, Faculty-Supervised Study</p>
                 
                 <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
                   <p><strong>Context:</strong> Served as research assistant on a behavioral economics study led by an economics faculty member, testing whether AI-polished writing and candidate-origin signals affect how resumes and cover letters are judged in early-stage screening. </p>
