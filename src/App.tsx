@@ -596,12 +596,15 @@ export default function App() {
                 <strong className="text-white font-semibold">Advanced Excel:</strong> Pivot Tables, XLOOKUP / INDEX-MATCH, SUMIFS, data cleaning, reconciliation templates, sensitivity & scenario tables
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                <strong className="text-white font-semibold">Financial Analysis:</strong> GAAP, Financial statement analysis (IS/BS/CF), working capital, income tax, depreciation, debt schedules, coverage metrics (DSCR / interest coverage), profitability analysis, risk assessment, basic DCF & comparables, basic LBO modeling
+                <strong className="text-white font-semibold">Financial Analysis:</strong> GAAP, Financial statement analysis (IS/BS/CF), working capital, income tax, depreciation, debt schedules, coverage metrics (DSCR / interest coverage), profitability analysis, risk assessment
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                <strong className="text-white font-semibold">Programming & Visualization:</strong> Python (Pandas for data cleaning and analysis), SQL (basic queries), Tableau (dashboard creation), Claude (Claude Code, LLMs)
+                <strong className="text-white font-semibold">Valuation:</strong> DCF, comparable company analysis, precedent transactions, WACC and cost of capital, terminal value analysis, football field valuation, basic LBO modeling
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+                <strong className="text-white font-semibold">Programming & Visualization:</strong> Python (Pandas for data cleaning and analysis), SQL (basic queries), Tableau (dashboard creation), Claude Code, ChatGPT, and LLM-assisted research and workflow automation
+              <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+              </li>
                 <strong className="text-white font-semibold">Market Data Tools:</strong> Bloomberg Terminal, Capital IQ, SEC EDGAR, FRED, Yahoo Finance
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
