@@ -456,7 +456,7 @@ export default function App() {
                     <ExternalLink className="w-5 h-5" />
                   </a>
                 </div>
-                <p className="text-white/60 text-sm mb-4 italic">Research Assistant — Faculty-Supervised Study, Experimental Survey Design</p>
+                <p className="text-white/60 text-sm mb-4 italic">Research Assistant - Economic Departure Faculty-Supervised Study</p>
                 
                 <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
                   <p><strong>Context:</strong> Served as research assistant on a behavioral economics study led by an economics faculty member, testing whether AI-polished writing and candidate-origin signals affect how resumes and cover letters are judged in early-stage screening. </p>
@@ -466,11 +466,13 @@ export default function App() {
               </div>
               <div className="p-6 pt-0 mt-auto">
                 <div className="flex flex-wrap gap-2">
-                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">M&A</span>
-                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Valuation</span>
-                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Financial Modeling</span>
-                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Company Analysis</span>
-                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Strategy Analysis</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Market Research</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Data Analysis</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Statistics Modeling</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Behavioral Economics</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Survey Methodology</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">LLMs</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Web Development</span>
                 </div>
               </div>
             </motion.div>
