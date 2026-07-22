@@ -222,7 +222,7 @@ export default function App() {
               className="w-full md:w-2/3 space-y-6 text-white/80 text-lg leading-relaxed"
             >
               <p>
-                Hi! I’m <span className="text-highlight font-medium">Owen Nguyen</span>, an Economics and Business Analytics student at DePauw University with a strong interest in finance, enterprise growth, and global business. My journey started from wanting to understand how companies improve, grow across markets, and make better strategic and investment decisions.
+                Hi! I’m <span className="text-highlight font-medium">Owen Nguyen</span>, an Economics and Business Analytics student at DePauw University with a strong interest in finance, business strategy, and global markets. I enjoy learning how companies grow and make better financial and investment decisions.
               </p>
               <p>
                 My experience spans the consulting, banking, and investment management industries. I have worked on financial analysis, credit assessment, valuation, forecasting, portfolio reporting, and market research. I am also learning how to use AI to improve research, organize information, automate repetitive tasks, and work more efficiently while still applying my own judgment.
