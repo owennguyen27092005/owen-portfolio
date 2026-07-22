@@ -469,7 +469,8 @@ export default function App() {
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">M&A</span>
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Valuation</span>
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Financial Modeling</span>
-                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Defense Strategy</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Company Analysis</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Strategy Analysis</span>
                 </div>
               </div>
             </motion.div>
@@ -490,7 +491,7 @@ export default function App() {
                     <ExternalLink className="w-5 h-5" />
                   </a>
                 </div>
-                <p className="text-white/60 text-sm mb-4 italic">Allegion (NYSE: ALLE) Initiation of Coverage</p>
+                <p className="text-white/60 text-sm mb-4 italic">Allegion plc (NYSE: ALLE) Initiation of Coverage</p>
                 
                 <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
                   <p><strong>Context:</strong> Led a five-student DePauw team in the CFA Institute’s global equity research competition, managing the research process and evaluating Allegion’s financial performance, competitive position, industry overview, and long-term growth prospects.</p>
@@ -501,8 +502,9 @@ export default function App() {
               <div className="p-6 pt-0 mt-auto">
                 <div className="flex flex-wrap gap-2">
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Equity Research</span>
-                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">DCF</span>
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Market Research</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Valuation</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Financial Modeling</span>
                   <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">ESG</span>
                 </div>
               </div>
