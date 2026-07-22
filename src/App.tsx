@@ -603,8 +603,8 @@ export default function App() {
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                 <strong className="text-white font-semibold">Programming & Visualization:</strong> Python (Pandas for data cleaning and analysis), SQL (basic queries), Tableau (dashboard creation), Claude Code, ChatGPT, and LLM-assisted research and workflow automation
-              <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
               </li>
+              <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                 <strong className="text-white font-semibold">Market Data Tools:</strong> Bloomberg Terminal, Capital IQ, SEC EDGAR, FRED, Yahoo Finance
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
