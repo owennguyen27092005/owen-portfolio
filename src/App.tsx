@@ -438,11 +438,11 @@ export default function App() {
             viewport={{ once: true }}
             className="text-4xl md:text-5xl font-heading font-bold text-center mb-12"
           >
-            Projects & Case Competitions
+            Projects & Competitions
           </motion.h2>
 
           <div className="flex md:justify-start gap-6 overflow-x-auto snap-x snap-mandatory hide-scrollbar py-8 px-4 -mx-4">
-              {/* "Too Good To Be True" AI-Polished Resumes and Bias in Screening Decisions */}
+              {/* AI-Polished Resumes and Bias in Screening Decisions */}
             <motion.div 
               initial={{ opacity: 0, scale: 0.95 }}
               whileInView={{ opacity: 1, scale: 1 }}
@@ -456,7 +456,7 @@ export default function App() {
                     <ExternalLink className="w-5 h-5" />
                   </a>
                 </div>
-                <p className="text-white/60 text-sm mb-4 italic">Research Assistant — Economics Department, Faculty-Supervised Study</p>
+                <p className="text-white/60 text-sm mb-4 italic">Research Assistant of Economics Department, Faculty-Supervised Study</p>
                 
                 <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
                   <p><strong>Context:</strong> Served as research assistant on a behavioral economics study led by an economics faculty member, testing whether AI-polished writing and candidate-origin signals affect how resumes and cover letters are judged in early-stage screening. </p>
@@ -495,7 +495,7 @@ export default function App() {
                 <p className="text-white/60 text-sm mb-4 italic">Thales–Rheinmetall Merger Analysis</p>
                 
                 <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
-                  <p><strong>Context:</strong> Evaluated the strategic and financial feasibility of a proposed $91B merger between Thales and Rheinmetall, focusing on their positioning across the European aerospace and defense market..</p>
+                  <p><strong>Context:</strong> Evaluated the strategic and financial feasibility of a proposed $91B merger between Thales and Rheinmetall, focusing on their positioning across the European aerospace and defense market.</p>
                   <p><strong>Analysis:</strong> Assessed vertical integration opportunities, operational synergies, and recurring-revenue potential. Developed a cross-selling framework using Rheinmetall’s $76B defense backlog and analyzed modernization and digital-upgrade opportunities. Also performed peer benchmarking and WACC sensitivity analysis to evaluate transaction pricing and financing capacity.</p>
                   <p><strong>Outcome:</strong> Identified potential value from expanded recurring revenue and stronger defense-market positioning, while highlighting key risks related to the acquisition premium, financing constraints, and post-merger integration.</p>
                 </div>
