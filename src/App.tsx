@@ -451,7 +451,7 @@ export default function App() {
             >
               <div className="p-6 flex-grow">
                 <div className="flex justify-between items-start mb-2">
-                  <h3 className="text-highlight text-xl font-heading font-semibold">"Too Good To Be True" AI-Polished Resumes and Bias in Screening Decisions</h3>
+                  <h3 className="text-highlight text-xl font-heading font-semibold">AI-Polished Resumes and Bias in Screening Decisions</h3>
                   <a href="https://hiring-bias-survey.vercel.app" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-[#f97316] transition-colors mt-1" aria-label="View Harvard M&A Global Case Project">
                     <ExternalLink className="w-5 h-5" />
                   </a>
