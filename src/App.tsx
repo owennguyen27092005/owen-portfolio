@@ -511,6 +511,40 @@ export default function App() {
               </div>
             </motion.div>
 
+
+             {/* NCAA Men's Final Four Analytics Challenge 2026 */}
+            <motion.div 
+              initial={{ opacity: 0, scale: 0.95 }}
+              whileInView={{ opacity: 1, scale: 1 }}
+              viewport={{ once: true }}
+              className="flex-none w-[340px] md:w-[400px] snap-start bg-white/5 rounded-xl border border-white/10 transition-all duration-300 hover:-translate-y-2 hover:border-white/20 hover:shadow-[0_8px_20px_rgba(0,0,0,0.2)] overflow-hidden flex flex-col"
+            >
+              <div className="p-6 flex-grow">
+                <div className="flex justify-between items-start mb-2">
+                  <h3 className="text-highlight text-xl font-heading font-semibold">NCAA Men's Final Four Analytics Challenge 2026</h3>
+                  <a href="https://drive.google.com/drive/u/2/folders/1wA89D3JZSIA5EE5ibveOPuYX5qupbT-B" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-[#f97316] transition-colors mt-1" aria-label="View Harvard M&A Global Case Project">
+                    <ExternalLink className="w-5 h-5" />
+                  </a>
+                </div>
+                <p className="text-white/60 text-sm mb-4 italic">Predictive Modeling — Basketball Tournament Selection & Seeding</p>
+                
+                <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
+                  <p><strong>Context:</strong> Competed against 198 teams to replicate the NCAA tournament committee's selection and seeding decisions using historical data, finishing as a Top 3 finalist.</p>
+                  <p><strong>Analysis:</strong> Built a two-stage predictive analytics system and integrated NCAA, KenPom, and ESPN datasets into a 25-factor analytical framework evaluating team efficiency, strength of schedule, and performance quality.</p>
+                  <p><strong>Outcome:</strong> Achieved 98.0% ROC AUC and 83.6% F1 accuracy on participant classification, and identified the strongest drivers behind qualification and seeding by analyzing committee decision patterns across teams, seasons, and competitive benchmarks.</p>
+                </div>
+              </div>
+              <div className="p-6 pt-0 mt-auto">
+                <div className="flex flex-wrap gap-2">
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">M&A</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Valuation</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Financial Modeling</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Company Analysis</span>
+                  <span className="bg-white/5 text-white/70 px-3 py-1 rounded-full text-xs border border-white/10">Strategy Analysis</span>
+                </div>
+              </div>
+            </motion.div>
+
             
             {/* CFA Research Challenge 2025-2026 */}
             <motion.div 
