@@ -492,7 +492,7 @@ export default function App() {
                     <ExternalLink className="w-5 h-5" />
                   </a>
                 </div>
-                <p className="text-white/60 text-sm mb-4 italic">Predictive Modeling — Basketball Tournament Selection & Seeding</p>
+                <p className="text-white/60 text-sm mb-4 italic">Predictive Modeling for Basketball Tournament Selection & Seeding</p>
                 
                 <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
                   <p><strong>Context:</strong> Competed against 198 teams to replicate the NCAA tournament committee's selection and seeding decisions using historical data, finishing as a Top 3 finalist.</p>
