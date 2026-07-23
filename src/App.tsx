@@ -488,7 +488,7 @@ export default function App() {
               <div className="p-6 flex-grow">
                 <div className="flex justify-between items-start mb-2">
                   <h3 className="text-highlight text-xl font-heading font-semibold">NCAA Men's Final Four Analytics Challenge 2026</h3>
-                  <a href="https://drive.google.com/drive/u/2/folders/1wA89D3JZSIA5EE5ibveOPuYX5qupbT-B" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-[#f97316] transition-colors mt-1" aria-label="View Harvard M&A Global Case Project">
+                  <a href="https://drive.google.com/file/d/1zC_kRTKLp5sApitxIUSA2WrcNOvZl0aV/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-[#f97316] transition-colors mt-1" aria-label="View Harvard M&A Global Case Project">
                     <ExternalLink className="w-5 h-5" />
                   </a>
                 </div>
