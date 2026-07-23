@@ -202,7 +202,7 @@ export default function App() {
               viewport={{ once: true }}
               className="w-full md:w-2/5 flex justify-center"
             >
-              <div className="relative w-64 h-80 md:w-full md:h-[400px] rounded-2xl overflow-hidden border border-white/10 shadow-2xl group">
+              <div className="relative w-64 h-80 md:w-full md:h-[460px] rounded-2xl overflow-hidden border border-white/10 shadow-2xl group">
                 <img 
                   src="/headshot.jpg" 
                   alt="Owen Nguyen" 
@@ -225,7 +225,7 @@ export default function App() {
                 Hi! I’m <span className="text-highlight font-medium">Owen Nguyen</span>, an Economics and Business Analytics student at DePauw University with a strong interest in finance, business strategy, and global markets. I enjoy learning how companies grow and make better financial and investment decisions.
               </p>
               <p>
-                My experience spans the consulting, banking, and investment management industries. I have worked on financial analysis, credit assessment, valuation, forecasting, portfolio reporting, and market research. I am also learning how to use AI to improve research, organize information, automate repetitive tasks, and work more efficiently while still applying my own judgment.
+                My experience spans the consulting, banking, and investment management industries. From there, I have worked on financial analysis, credit assessment, valuation, forecasting, portfolio reporting, and market research. I'm also learning how to apply AI to improve research, organize information, automate repetitive tasks, and work more efficiently while still applying my own judgment.
               </p>
               <p>
                 My journey is still unfolding, and I am excited to continue learning from others and take on new challenges. Let’s connect and share ideas about markets, business strategy, and the changing role of technology in finance.
