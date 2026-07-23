@@ -564,7 +564,7 @@ export default function App() {
                 <p className="text-white/60 text-sm mb-4 italic">Allegion plc (NYSE: ALLE) Initiation of Coverage</p>
                 
                 <div className="space-y-4 text-white/80 text-[0.95rem] leading-relaxed mb-6">
-                  <p><strong>Context:</strong> Led a five-student DePauw team in the CFA Institute’s global equity research competition, managing the research process and evaluating Allegion’s financial performance, competitive position, industry overview, and long-term growth prospects.</p>
+                  <p><strong>Context:</strong> Led a team of 5 DePauw students in the CFA Institute’s global equity research competition, managing the research process and evaluating Allegion’s financial performance, competitive position, industry overview, and long-term growth prospects.</p>
                   <p><strong>Analysis:</strong> Built a valuation supported by financial-statement analysis and long-term operating assumptions. Projected approximately 6% revenue CAGR and margin expansion based on pricing power, operating leverage, digital transformation, and recurring-revenue growth. Conducted peer benchmarking, ESG analysis, and industry research to test the investment thesis and downside risks.</p>
                   <p><strong>Outcome:</strong> Issued a BUY recommendation with a $199 target price, representing 20.6% projected upside, and presented the findings through a professional equity-research report.</p>
                 </div>
