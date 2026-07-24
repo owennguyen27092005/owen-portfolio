@@ -354,7 +354,7 @@ export default function App() {
               </ul>
             </motion.div>
 
-            {/* Vietnam-Russia Joint Venture Bank */}
+            {/* Vietnam-Russia Bank */}
             <motion.div 
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -362,7 +362,7 @@ export default function App() {
               className="relative"
             >
               <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-2">
-                <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Corporate Finance Intern</h3>
+                <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Financial Analyst Intern</h3>
                 <span className="text-white/60 text-base mt-1 md:mt-0">May 2025 - Aug 2025</span>
               </div>
               <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
@@ -373,20 +373,20 @@ export default function App() {
                     className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0"
                     aria-hidden
                   />
-                  <span>Vietnam-Russia Joint Venture Bank</span>
+                  <span>Vietnam-Russia Bank</span>
                   <span className="text-white/50 text-base font-normal">| Hanoi, Vietnam</span>
                 </div>
               </div>
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Supported credit approval workflow for 3 foreign-invested manufacturers (~$550K loan facilities), expanding operations into Vietnam by maintaining diligence checklists and consolidating borrower financial statements for credit committee packages
+                  Evaluated repayment capacity for 3+ foreign-owned manufacturers by spreading 3 years of financials and testing capex plans against operating cash flow, feeding the analysis into approval decisions on $2.5M in facilities
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Built cash flow and repayment capacity analysis models (DSCR, interest coverage) across 5-year loan structures and standardized input templates, improving credit analysis turnaround time by 12%
+                  Built a 5-year cash flow model driven by revenue, margin, and working capital assumptions, running three scenarios to test DSCR and interest coverage against covenant thresholds over the full loan tenor
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Assisted in drafting credit memos and covenant analysis for senior bankers (BM, VP), maintained audit trail for committee submissions and supporting version tracking for materials used in credit approval discussions and syndicated loan processes
+                  Turned financial analysis, borrower risk factors, and covenant tracking into approval ready credit memos on 4 deals, presenting the risk view and lending recommendation to senior credit officers
                 </li>
               </ul>
             </motion.div>
