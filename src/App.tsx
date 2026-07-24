@@ -657,7 +657,7 @@ export default function App() {
                 <strong className="text-white font-semibold">Advanced Excel:</strong> Pivot Tables, XLOOKUP / INDEX-MATCH, SUMIFS, data cleaning, reconciliation templates, sensitivity & scenario tables
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                <strong className="text-white font-semibold">Financial Analysis:</strong> GAAP, Financial statement analysis (IS/BS/CF), working capital, income tax, depreciation, debt schedules, coverage metrics (DSCR / interest coverage), profitability analysis, risk assessment, budgeting, KPI analysis
+                <strong className="text-white font-semibold">Financial Analysis:</strong> GAAP, Financial statement analysis (IS/BS/CF), budgeting and forecasting, working capital, income tax, depreciation, debt schedules, coverage metrics (DSCR / interest coverage), profitability analysis, risk assessment, KPI reporting, scenario modeling
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                 <strong className="text-white font-semibold">Valuation:</strong> DCF, comparable company analysis, precedent transactions, WACC and cost of capital, terminal value analysis, football field valuation
