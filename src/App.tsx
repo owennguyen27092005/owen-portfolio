@@ -678,7 +678,7 @@ export default function App() {
                 <strong className="text-white font-semibold">Market Data Tools:</strong> Bloomberg Terminal, Capital IQ, SEC EDGAR, FRED, Yahoo Finance
               </li>
               <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                <strong className="text-white font-semibold">Interests:</strong> Playing basketball, golf, traveling (have been to 20+ countries), learning new languages and cooking
+                <strong className="text-white font-semibold">Interests:</strong> Playing basketball, golf, traveling (have been to 20+ countries), cooking and learning new languages
               </li>
             </ul>
           </div>
