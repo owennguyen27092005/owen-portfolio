@@ -622,32 +622,6 @@ export default function App() {
               </ul>
             </motion.div>
 
-            {/* DePauw Investment Group */}
-            <motion.div 
-              initial={{ opacity: 0, y: 20 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              className="relative"
-            >
-              <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-2">
-                <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Portfolio Manager - Industrials Sector</h3>
-                <span className="text-white/60 text-base mt-1 md:mt-0">Sep 2025 - Feb 2026</span>
-              </div>
-              <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
-                <div className="text-xl text-white font-medium"> DePauw Investment Group <span className="text-white/50 text-base ml-2 font-normal">| Greencastle, IN</span></div>
-              </div>
-              
-              <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
-                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Managed an industrial fund with almost $76,000 AUM that included transportation, manufacturing, and technology equities.
-                </li>
-                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Led a team of 3 analysts in weekly investment discussions, applying DCF and relative valuation frameworks to adjust portfolio strategy, contributing to a 6% increase in portfolio value.
-                </li>
-              </ul>
-            </motion.div>
-          </div>
-        </section>
 
         {/* Skills Section */}
         <section id="skills" className="max-w-5xl mx-auto px-6 py-24">
