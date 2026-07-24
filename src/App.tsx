@@ -346,7 +346,7 @@ export default function App() {
                   Prepared financial summaries and KPI analyses highlighting revenue, expense, liquidity, and profitability trends for executive and client presentations
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Leveraged AI tools such as Claude and ChatGPT to streamline 20 industry reports and nonprofit filings, reducing manual research time by 30% while verifying conclusions against original sources
+                  Streamlined industry and nonprofit benchmarking through AI-assisted research workflows (such as Claude and ChatGPT), reviewing 20 reports and filings while reducing research time by 30% and validating findings against primary sources
                 </li>
                  <p className="text-white text-xl font-semibold italic mt-5 mb-3">
                   BRIDGE Project: Strategic Pricing & Revenue Forecasting Framework
