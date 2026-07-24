@@ -18,10 +18,10 @@ export default function App() {
   const [isTyping, setIsTyping] = useState(true);
   
   const phrases = [
-    "Finance & Strategy Student",
-    "Investment Analyst",
+    "Strategic Finance",
+    "Investment Analysis",
     "M&A Enthusiast",
-    "Capital Markets"
+    "AI-Applied"
   ];
 
   // Typing effect
