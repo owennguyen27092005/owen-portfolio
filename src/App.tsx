@@ -386,7 +386,7 @@ export default function App() {
                   Built a 5-year cash flow model driven by revenue, margin, and working capital assumptions, running three scenarios to test DSCR and interest coverage against covenant thresholds over the full loan tenor
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Turned financial analysis, borrower risk factors, and covenant tracking into approval ready credit memos on 4 deals, presenting the risk view and lending recommendation to senior credit officers
+                  Turned financial analysis, borrower risk factors, and covenant tracking into approval-ready credit memos on 4 deals, presenting the risk view and lending recommendation to senior credit officers
                 </li>
               </ul>
             </motion.div>
