@@ -621,6 +621,8 @@ export default function App() {
                 </li>
               </ul>
             </motion.div>
+            </div>
+         </section>
 
 
         {/* Skills Section */}
