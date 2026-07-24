@@ -289,7 +289,7 @@ export default function App() {
                       </li>
                       <li className="text-white text-base leading-relaxed pl-5 relative timeline-bullet">
                         <strong>Certifications:</strong>{' '}
-                        CFA Level 1 Candidate, Securities Industry Essentials (SIE) Exam Passed, Wall Street Prep Financial & Valuation Modeling.
+                        CFA Level 1 Candidate, Securities Industry Essentials (SIE) Exam Passed, Wall Street Prep Financial & Valuation Modeling, Bloomberg Market Concepts, Bloomberg Finance Fundamentals.
                       </li>
                     </ul>
                   </div>
