@@ -337,28 +337,19 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Analyzed 3-year of financial statements and operating data for nonprofit clients (representing more than $5M in operating budgets), evaluating liquidity, profitability, expense trends, and 8+ financial ratios to support management decisions
+                  Conducted financial health assessment for 2+ nonprofit client engagements (representing over $5M in operating budget), analyzing 3 years of financial statements, 8+ financial ratios, and operational datasets to develop executive-ready recommendations
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Reconciled income statement, balance sheet, and cash flow data for inconsistencies, validating account movements and model outputs before presenting findings to project leaders
-                </li>
-                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Prepared financial summaries and KPI analyses highlighting revenue, expense, liquidity, and profitability trends for executive and client presentations
-                </li>
-                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Streamlined industry and nonprofit benchmarking through AI-assisted research workflows (such as Claude and ChatGPT), reviewing 20 reports and filings while reducing research time by 30% and validating findings against primary sources
+                  Leveraged AI tools such as Claude and ChatGPT to analyze 20 industry reports and nonprofit filings, reducing manual research time by 30% while ensuring accuracy through source verification
                 </li>
                  <p className="text-white text-xl font-semibold italic mt-5 mb-3">
                   BRIDGE Project: Strategic Pricing & Revenue Forecasting Framework
                 </p>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Analyzed 3-year of pricing and financial data across 10 consulting service lines to identify pricing inconsistencies, service-level performance trends, and revenue improvement opportunities
+                  Analyzed 3 years of historical pricing and financial data across 10 consulting service lines and performed competitive benchmarking analysis to identify pricing inconsistencies and revenue improvement opportunities
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Built a scenario-based revenue forecasting model evaluating 7 pricing variables, 3 market penetration cases, and multiple client segments to estimate revenue growth and the financial impact of pricing decisions
-                </li>
-                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Compared historical revenue and pricing performance against model assumptions to identify variances, explain key drivers, and refine forward-looking forecasts
+                  Developed a scenario-based pricing and revenue forecasting model evaluating 7 pricing variables, 3 market penetration scenarios and multiple client segment to estimate revenue growth and support pricing strategy decisions
                 </li>
               </ul>
             </motion.div>
@@ -392,13 +383,10 @@ export default function App() {
                   Evaluated the financial performance and repayment capacity of three foreign-owned manufacturers by analyzing 3-year of financial statements, operating cash flow, working capital, and planned capital expenditures
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Built 5-year cash flow models driven by revenue, margin, debt, and working capital assumptions, running base, upside, and downside scenarios to test DSCR and interest coverage
+                  Assessed long-term financial sustainability under 5-year lending structures by building cash flow projections and evaluating working capital needs, DSCR, interest coverage, and free cash flow resilience across multiple business scenarios
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Reviewed borrower financial data and supporting documents for errors and inconsistencies, strengthening the accuracy of analysis used in approval decisions on $2.5M in credit facilities
-                </li>
-                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Prepared approval-ready financial summaries and credit memoranda for four transactions, presenting key performance trends, risks, and recommendations to senior credit officers
+                  Contributed to senior bankers (BM, VP) discussions by synthesizing financial analysis, borrower risk factors, and covenant monitoring insights into materials used for internal approval and lending recommendation processes
                 </li>
               </ul>
             </motion.div>
@@ -623,16 +611,13 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Lead programming and operations for a student consulting organization serving 80+ students, coordinating workshops, speaker events, case preparation sessions, and employer engagement
+                  Built a pipeline of 10+ alumni networking events, case workshops, and career sessions, connecting 80+ students with consultants, recruiters, and business professionals to expand access to consulting and finance career opportunities
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Built a pipeline of 10+ alumni and professional events, connecting members with consultants and business leaders across finance and consulting
+                  Coordinated outreach, event logistics, and follow-up communication with alumni and corporate partners, increasing member engagement by 35% while strengthening the group’s relationship-driven programming and event execution
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Coordinated project timelines, outreach, and event logistics across a 4-member executive team, helping increase member participation by 35%
-                </li>
-                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Developed company briefs, research materials, and case preparation resources for 5 student teams, helping members prepare stronger analyses and recommendations for case competitions and consulting projects
+                  Developed company briefs, research materials, and case preparation resources for 5 student teams, helping members strengthen business problem-solving skills and prepare for consulting-style projects and competitions
                 </li>
               </ul>
             </motion.div>
