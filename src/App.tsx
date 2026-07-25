@@ -611,13 +611,13 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Built a pipeline of 10+ alumni networking events, case workshops, and career sessions, connecting 80+ students with consultants, recruiters, and business professionals to expand access to consulting and finance career opportunities
+                  Manage the organization’s $2,500 annual budget, using Excel to forecast event costs and allocate funding across workshops, case competitions, marketing, and member-development initiatives
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Coordinated outreach, event logistics, and follow-up communication with alumni and corporate partners, increasing member engagement by 35% while strengthening the group’s relationship-driven programming and event execution
+                  Lead a 4-member executive team in planning 7+ networking events, speaker sessions, and consulting workshops, connecting 80+ students with alumni, recruiters, and consulting and finance professionals
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Developed company briefs, research materials, and case preparation resources for 5 student teams, helping members strengthen business problem-solving skills and prepare for consulting-style projects and competitions
+                  Develop research materials and case-preparation resources for 5 student teams while coordinating event logistics, internal communications, and external partnerships, contributing to a 35% increase in member engagement
                 </li>
               </ul>
             </motion.div>
