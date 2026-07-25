@@ -340,7 +340,7 @@ export default function App() {
                   Conducted financial health assessment for 2+ nonprofit client engagements (representing over $5M in operating budget), analyzing 3 years of financial statements, 8+ financial ratios, and operational datasets to develop executive-ready recommendations
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Leveraged AI tools such as Claude and ChatGPT to analyze 20 industry reports and nonprofit filings, reducing manual research time by 30% while ensuring accuracy through source verification
+                  Streamlined nonprofit benchmarking through AI-assisted research workflows (such as Claude and ChatGPT), reviewing 20 industry reports and regulatory filings while reducing research time by 30% and validating findings against primary sources
                 </li>
                  <p className="text-white text-xl font-semibold italic mt-5 mb-3">
                   BRIDGE Project: Strategic Pricing & Revenue Forecasting Framework
