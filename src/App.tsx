@@ -380,7 +380,7 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Evaluated the financial performance and repayment capacity of three foreign-owned manufacturers by analyzing 3-year of financial statements, operating cash flow, working capital, and planned capital expenditures
+                  Supported credit evaluation and financing decisions for $2.5M in syndicated loan facilities by analyzing borrower financial performance, operational expansion plans, and repayment capacity for foreign-invested manufacturers in Vietnam
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                   Assessed long-term financial sustainability under 5-year lending structures by building cash flow projections and evaluating working capital needs, DSCR, interest coverage, and free cash flow resilience across multiple business scenarios
