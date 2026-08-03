@@ -605,8 +605,14 @@ export default function App() {
                 <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Co-President</h3>
                 <span className="text-white/60 text-base mt-1 md:mt-0">Aug 2025 - Present</span>
               </div>
-              <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
-                <div className="text-xl text-white font-medium"> DePauw Consulting Group <span className="text-white/50 text-base ml-2 font-normal">| Greencastle, IN</span></div>
+              <div className="flex items-center gap-3 text-xl text-white font-medium">
+               <img
+                 src="/DCG logo.png"
+                 alt=""
+                 className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
+                 aria-hidden
+               />
+               <span>DePauw Consulting Group <span className="text-white/50 text-base ml-2 font-normal">| Greencastle, IN</span></span>
               </div>
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
