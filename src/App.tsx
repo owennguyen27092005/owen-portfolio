@@ -70,6 +70,10 @@ export default function App() {
           current = section.getAttribute('id') || '';
         }
       });
+      if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 50) {
+        const lastSection = sections[sections.length - 1];
+        if (lastSection) current = lastSection.getAttribute('id') || current;
+      }
       setActiveSection(current);
     };
 
