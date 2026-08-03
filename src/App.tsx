@@ -609,7 +609,7 @@ export default function App() {
                <img
                  src="/DCG logo.png"
                  alt=""
-                 className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-0.5"
+                 className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0 border border-white/10 bg-white"
                  aria-hidden
                />
                <span>DePauw Consulting Group <span className="text-white/50 text-base ml-2 font-normal">| Greencastle, IN</span></span>
