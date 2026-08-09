@@ -331,8 +331,8 @@ export default function App() {
                 />
                 <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
                   <div>
-                    <div className="text-xl text-white font-medium">Bridge Builder Strategies</div>
-                    <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Finance & Strategy Intern</h3>
+                   <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Bridge Builder Strategies</h3>
+                    <div className="text-xl text-white font-medium">Finance & Strategy Intern</div>
                   </div>
                   <div className="mt-1 md:mt-0 md:text-right">
                     <div className="text-white/50 text-base font-normal">Indianapolis, IN</div>
