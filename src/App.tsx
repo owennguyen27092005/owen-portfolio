@@ -9,7 +9,7 @@ const navLinks = [
   { name: 'Projects', href: '#projects' },
   { name: 'Leadership', href: '#leadership' },
   { name: 'Skills', href: '#skills' },
-  { name: 'Contact', href: '#contact' },h-16 w-16 md:h-20 md:w-20
+  { name: 'Contact', href: '#contact' },
 ];
 
 export default function App() {
