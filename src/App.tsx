@@ -326,7 +326,7 @@ export default function App() {
                 <img
                   src="/bbs-logo.png"
                   alt=""
-                  className="h-16 w-16 md:h-20 md:w-20 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
+                  className="h-14 w-14 md:h-16 md:w-16 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
                   aria-hidden
                 />
                 <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
@@ -371,7 +371,7 @@ export default function App() {
                   <img
                     src="/vrb.png"
                     alt=""
-                    className="h-16 w-16 md:h-20 md:w-20 rounded-lg object-contain shrink-0"
+                    className="h-14 w-14 md:h-16 md:w-16 rounded-lg object-contain shrink-0"
                     aria-hidden
                   />
                   <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
@@ -410,7 +410,7 @@ export default function App() {
                   <img
                     src="/vps.png"
                     alt=""
-                    className="h-16 w-16 md:h-20 md:w-20 rounded-lg object-contain bg-white p-1 shrink-0 border border-white/10"
+                    className="h-14 w-14 md:h-16 md:w-16 rounded-lg object-contain bg-white p-1 shrink-0 border border-white/10"
                     aria-hidden
                   />
                   <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
