@@ -335,7 +335,7 @@ export default function App() {
                     <div className="text-xl text-white font-medium">Finance & Strategy Intern</div>
                   </div>
                   <div className="mt-1 md:mt-0 md:text-right">
-                    <div className="text-white/50 text-base font-normal leading-[1.6] md:leading-[2.6rem]">Indianapolis, IN</div>
+                    <div className="text-white/50 text-base font-normal leading-[2.6] md:leading-[2.6rem]">Indianapolis, IN</div>
                     <div className="text-white/60 text-base">Jun 2026 - Aug 2026</div>
                   </div>
                 </div>
