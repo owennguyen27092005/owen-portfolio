@@ -406,22 +406,24 @@ export default function App() {
               viewport={{ once: true }}
               className="relative"
             >
-              <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-2">
-                <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Investment Advisory & Trading Intern</h3>
-                <span className="text-white/60 text-base mt-1 md:mt-0">June 2024 - Aug 2024</span>
-              </div>
-              <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
-                <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xl text-white font-medium min-w-0">
+              <div className="flex items-center gap-4 mb-4">
                   <img
                     src="/vps.png"
                     alt=""
-                    className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain bg-white p-1 shrink-0 border border-white/10"
+                    className="h-16 w-16 md:h-20 md:w-20 rounded-lg object-contain bg-white p-1 shrink-0 border border-white/10"
                     aria-hidden
                   />
-                  <span>VPS Securities</span>
-                  <span className="text-white/50 text-base font-normal">| Hanoi, Vietnam</span>
+                  <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
+                    <div>
+                      <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">VPS Securities</h3>
+                      <div className="text-xl text-white font-medium">Investment Advisory & Trading Intern</div>
+                    </div>
+                    <div className="mt-1 md:mt-0 md:text-right">
+                      <div className="text-white/60 text-base font-normal leading-[1.6] md:leading-[2.6rem]">Hanoi, Vietnam</div>
+                      <div className="text-white/60 text-base font-normal">June 2024 - Aug 2024</div>
+                    </div>
+                  </div>
                 </div>
-              </div>
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
