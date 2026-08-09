@@ -322,20 +322,19 @@ export default function App() {
               viewport={{ once: true }}
               className="relative"
             >
-              <div className="flex flex-col md:flex-row md:items-baseline justify-between mb-2">
-                <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Finance & Strategy Intern</h3>
-                <span className="text-white/60 text-base mt-1 md:mt-0">Jun 2026 - Present</span>
-              </div>
-              <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
-                <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xl text-white font-medium min-w-0">
-                  <img
-                    src="/bbs-logo.png"
-                    alt=""
-                    className="h-16 w-16 md:h-16 md:w-16 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-0.5"
-                    aria-hidden
-                  />
-                  <span>Bridge Builder Strategies</span>
-                  <span className="text-white/50 text-base font-normal">| Indianapolis, IN</span>
+              <div className="flex items-center gap-4 mb-4">
+                <img
+                  src="/bbs-logo.png"
+                  alt=""
+                  className="h-16 w-16 md:h-20 md:w-20 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
+                  aria-hidden
+                />
+                <div className="flex-grow min-w-0">
+                  <div className="flex flex-col md:flex-row md:items-baseline justify-between">
+                    <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Finance & Strategy Intern</h3>
+                    <span className="text-white/60 text-base mt-1 md:mt-0">Jun 2026 - Present</span>
+                  </div>
+                  <div className="text-xl text-white font-medium mt-1">Bridge Builder Strategies <span className="text-white/50 text-base font-normal">| Indianapolis, IN</span></div>
                 </div>
               </div>
               
