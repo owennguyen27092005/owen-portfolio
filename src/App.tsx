@@ -329,12 +329,15 @@ export default function App() {
                   className="h-16 w-16 md:h-20 md:w-20 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
                   aria-hidden
                 />
-                <div className="flex-grow min-w-0">
-                  <div className="flex flex-col md:flex-row md:items-baseline justify-between">
+                <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
+                  <div>
+                    <div className="text-xl text-white font-medium">Bridge Builder Strategies</div>
                     <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Finance & Strategy Intern</h3>
-                    <span className="text-white/60 text-base mt-1 md:mt-0">Jun 2026 - Present</span>
                   </div>
-                  <div className="text-xl text-white font-medium mt-1">Bridge Builder Strategies <span className="text-white/50 text-base font-normal">| Indianapolis, IN</span></div>
+                  <div className="mt-1 md:mt-0 md:text-right">
+                    <div className="text-white/50 text-base font-normal">Indianapolis, IN</div>
+                    <div className="text-white/60 text-base">Jun 2026 - Aug 2026</div>
+                  </div>
                 </div>
               </div>
               
