@@ -329,9 +329,9 @@ export default function App() {
               <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
                 <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xl text-white font-medium min-w-0">
                   <img
-                    src="/BBS Logo.jpg"
+                    src="/bbs-logo.png"
                     alt=""
-                    className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0 border border-white/10 bg-white/5 p-1"
+                    className="h-11 w-11 md:h-12 md:w-12 rounded-lg object-contain shrink-0 border border-white/10 bg-white/5 p-1.5"
                     aria-hidden
                   />
                   <span>Bridge Builder Strategies</span>
