@@ -608,40 +608,47 @@ export default function App() {
             className="text-4xl md:text-5xl font-heading font-bold text-center mb-16"
           >
             Leadership
-            <motion.h2
+            </motion.h2>
 
           <div className="space-y-16">
             {/* CFA Society Indianapolis */}
-    <motion.div
-      initial={{ opacity: 0, y: 20 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true }}
-      className="relative"
-    >
-      <div className="flex items-center gap-4 mb-4">
-        <img
-          src="/cfa-logo.png"
-          alt=""
-          className="h-14 w-14 md:h-16 md:w-16 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
-          aria-hidden
-        />
-        <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
-          <div>
-            <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">CFA Society Indianapolis</h3>
-            <div className="text-xl text-white font-medium">USA Student Ambassador</div>
-          </div>
-          <div className="mt-1 md:mt-0 md:text-right">
-            <div className="text-white/60 text-base font-normal leading-[1.6] md:leading-[2.2rem]">Indianapolis, IN</div>
-            <div className="text-white/60 text-base font-normal">Aug 2026 – Present</div>
-          </div>
-        </div>
-      </div>
-      <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
-        <li className="text-white/80 text-lg pl-6 relative timeline-bullet">Serve as a bridge between CFA Society Indianapolis and my university community, connecting peers with finance professionals and CFA resources</li>
-        <li className="text-white/80 text-lg pl-6 relative timeline-bullet">Promote CFA Society events and exam, certification, and career-development opportunities to students across Indianapolis</li>
-        <li className="text-white/80 text-lg pl-6 relative timeline-bullet">Collaborate with Society members to expand student exposure to the investment industry and build professional connections</li>
-      </ul>
-    </motion.div>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              className="relative"
+            >
+              <div className="flex items-center gap-4 mb-4">
+                  <img
+                    src="/cfa-logo.png"
+                    alt=""
+                    className="h-14 w-14 md:h-16 md:w-16 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
+                    aria-hidden
+                  />
+                  <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
+                   <div>
+                     <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">CFA Society Indianapolis</h3>
+                     <div className="text-xl text-white font-medium">USA Student Ambassador</div>
+                   </div>
+                   <div className="mt-1 md:mt-0 md:text-right">
+                     <div className="text-white/60 text-base font-normal leading-[1.6] md:leading-[2.2rem]">Indianapolis, IN</div>
+                     <div className="text-white/60 text-base font-normal">Aug 2026 – Present</div>
+                   </div>
+                  </div>
+                </div>
+              
+              <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
+                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+                  Serve as a bridge between CFA Society Indianapolis and my university community, connecting peers with finance professionals and CFA resources
+                </li>
+                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+                  Promote CFA Society events and exam, certification, and career-development opportunities to students across Indianapolis
+                </li>
+                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+                  Collaborate with Society members to expand student exposure to the investment industry and build professional connections
+                </li>
+              </ul>
+            </motion.div>
             
             {/* DePauw Consulting Group */}
             <motion.div 
