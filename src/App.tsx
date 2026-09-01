@@ -340,7 +340,7 @@ export default function App() {
                     <span className="text-white/60 text-base font-normal">Aug 2026 - Present</span>
                   </div>
                   <ul className="mt-2 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
-                    <li className="text-white/80 text-lg pl-6 relative timeline-bullet">Finance Transformation & Product Development</li>
+                    <li className="text-white/80 text-lg pl-6 relative timeline-bullet">Financial Analysis & Product Development</li>
                   </ul>
                   <div className="flex flex-col md:flex-row md:items-baseline justify-between pt-1">
                     <div className="text-xl md:text-2xl text-white font-semibold">Finance & Strategy Intern</div>
