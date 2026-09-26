@@ -350,19 +350,25 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Conducted financial health assessment for 2+ nonprofit client engagements (representing over $5M in operating budget), analyzing 3 years of financial statements, 8+ financial ratios, and operational datasets to develop executive-ready recommendations
+                  Collaborated with client leadership and internal project teams across 3+ nonprofit engagements, interviewing stakeholders to understand financial priorities and operating challenges and align project work with client needs
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Streamlined nonprofit benchmarking through AI-assisted research workflows (such as Claude and ChatGPT), reviewing 20 industry reports and regulatory filings while reducing research time by 30% and validating findings against primary sources
+                  Conducted financial health assessment for a nonprofit client (representing over $5M in operating budget), using Excel to analyze 3 years of financial statements, 8+ liquidity, profitability, and operating ratios to identify financial risks and develop executive recommendations
+                </li>
+                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+                  Designed an AI-assisted research workflow using Claude and ChatGPT to extract and organize benchmarking data from 20+ nonprofit industry reports and regulatory filings, reducing research time by 30% while validating outputs against primary sources
                 </li>
                  <p className="text-white text-xl font-semibold italic mt-5 mb-3">
                   BRIDGE Project: Strategic Pricing & Revenue Forecasting Framework
                 </p>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Analyzed 3 years of historical pricing and financial data across 10 consulting service lines and performed competitive benchmarking analysis to identify pricing inconsistencies and revenue improvement opportunities
+                  Partnered with internal stakeholders to analyze 3 years of historical pricing and financial data across 10 consulting service lines, comparing BBS service rates and pricing structures against competitors to identify underpriced offerings and key revenue drivers
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Developed a scenario-based pricing and revenue forecasting model evaluating 7 pricing variables, 3 market penetration scenarios and multiple client segment to estimate revenue growth and support pricing strategy decisions
+                  Developed an Excel revenue forecasting model using 7 pricing assumptions and 3 market-penetration scenarios to project base, upside, and downside revenue outcomes and quantify the financial impact of proposed pricing changes
+                </li>
+                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
+                  Built an internal pricing interface tool using LLM API integration to automate service pricing and generate real-time client estimates, reducing quote preparation time by 60% and manual pricing work by 40%
                 </li>
               </ul>
             </motion.div>
