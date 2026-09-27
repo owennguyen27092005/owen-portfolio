@@ -650,9 +650,6 @@ export default function App() {
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
                   Promote CFA Society events and exam, certification, and career-development opportunities to students across Indianapolis
                 </li>
-                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Collaborate with Society members to expand student exposure to the investment industry and build professional connections
-                </li>
               </ul>
             </motion.div>
             
@@ -684,13 +681,10 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Manage the organization’s $2,500 annual budget, using Excel to forecast event costs and allocate funding across workshops, case competitions, marketing, and member-development initiatives
+                  Manage the organization’s $5,000 annual budget, using Excel to forecast event costs and allocate funding across workshops, company tours, case competitions, marketing, and member-development initiatives
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Lead a 4-member executive team in planning 7+ networking events, speaker sessions, and consulting workshops, connecting 80+ students with alumni, recruiters, and consulting and finance professionals
-                </li>
-                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Develop research materials and case-preparation resources for 5 student teams while coordinating event logistics, internal communications, and external partnerships, contributing to a 35% increase in member engagement
+                  Lead a 4-member executive team in planning 10+ networking events, speaker sessions, consulting workshops, pro bono projects, and mentorship program, connecting 80+ students with alumni, recruiters, and consulting and finance professionals
                 </li>
               </ul>
             </motion.div>
