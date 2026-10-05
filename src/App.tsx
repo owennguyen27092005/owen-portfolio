@@ -674,7 +674,7 @@ export default function App() {
                     </div>
                     <div className="mt-1 md:mt-0 md:text-right">
                       <div className="text-white/60 text-base font-normal leading-[1.6] md:leading-[2.2rem]">Greencastle, IN</div>
-                      <div className="text-white/60 text-base font-normal">Aug 2025 - Present</div>
+                      <div className="text-white/60 text-base font-normal">May 2026 - Present</div>
                     </div>
                   </div>
                 </div>
