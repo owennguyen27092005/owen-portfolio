@@ -429,7 +429,7 @@ export default function App() {
                   <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
                     <div>
                       <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">VPS Securities</h3>
-                      <div className="text-xl text-white font-medium">Investment Advisory & Trading Intern</div>
+                      <div className="text-xl text-white font-medium">Investment Management Analyst Intern</div>
                     </div>
                     <div className="mt-1 md:mt-0 md:text-right">
                       <div className="text-white/60 text-base font-normal leading-[1.6] md:leading-[2.6rem]">Hanoi, Vietnam</div>
@@ -440,13 +440,13 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Supported discretionary portfolio management for two client accounts (~$50K AUM) by producing performance reports, identifying risk exposures, and preparing allocation commentary for advisor portfolio review meetings
+                  Supported asset allocation reviews for two client accounts with approximately $50K in AUM by evaluating portfolio performance and risk exposures and translating findings into advisor commentary.
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Managed end-to-end production of weekly portfolio reporting packs, maintaining data integrity, version control, and quality control checkpoints across client-facing deliverables in support of portfolio review meetings.
+                  Delivered weekly investment research notes by synthesizing company earnings, financial statements, and market developments to support advisors’ review of portfolio holdings.
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Built weekly market and earnings digests and standardized three reporting templates for portfolio updates and research notes, improving the update turnaround time by 30% through AI-assisted extraction and synthesis of earnings filings and financial statements.
+                  Reduced reporting turnaround time by 30% by standardizing three portfolio and research templates, using AI-assisted extraction, and validating data before preparing client materials.
                 </li>
               </ul>
             </motion.div>
