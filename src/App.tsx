@@ -440,13 +440,13 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Supported asset allocation reviews for two client accounts with approximately $50K in AUM by evaluating portfolio performance and risk exposures and translating findings into advisor commentary.
+                  Supported asset allocation reviews for two client accounts with approximately $100K in AUM by evaluating portfolio performance and risk exposures and translating findings into advisor commentary
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Delivered weekly investment research notes by synthesizing company earnings, financial statements, and market developments to support advisors’ review of portfolio holdings.
+                  Delivered weekly investment research notes by synthesizing company earnings, financial statements, and market developments to support advisors’ review of portfolio holdings
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Reduced reporting turnaround time by 30% by standardizing three portfolio and research templates, using AI-assisted extraction, and validating data before preparing client materials.
+                  Reduced reporting turnaround time by 30% by standardizing three portfolio and research templates, using AI-assisted extraction, and validating data before preparing client materials
                 </li>
               </ul>
             </motion.div>
