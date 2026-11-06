@@ -322,24 +322,24 @@ export default function App() {
               viewport={{ once: true }}
               className="relative"
             >
-              <div className="flex items-center gap-4 mb-3">
-                  <img
-                    src="/bbs-logo.png"
-                    alt=""
-                    className="h-14 w-14 md:h-16 md:w-16 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
-                    aria-hidden
-                  />
-                  <div className="flex-grow min-w-0 flex flex-row items-center justify-between">
+             <div className="flex items-center gap-4 mb-4">
+                <img
+                  src="/bbs-logo.png"
+                  alt=""
+                  className="h-14 w-14 md:h-16 md:w-16 rounded-lg object-contain shrink-0 border border-white/10 bg-white p-1"
+                  aria-hidden
+                />
+                <div className="flex-grow min-w-0 flex flex-col md:flex-row md:items-start justify-between">
+                  <div>
                     <h3 className="text-highlight text-2xl md:text-[2rem] font-heading font-semibold">Bridge Builder Strategies</h3>
-                    <span className="text-white/60 text-base font-normal mt-1 md:mt-0">Indianapolis, IN</span>
+                    <div className="text-xl text-white font-medium">Finance & Strategy Intern</div>
+                  </div>
+                  <div className="mt-1 md:mt-0 md:text-right">
+                    <div className="text-white/60 text-base font-normal leading-[1.6] md:leading-[2.6rem]">Indianapolis, IN</div>
+                    <div className="text-white/60 text-base font-normal">Jun 2026 - Present</div>
                   </div>
                 </div>
-                <div className="space-y-3 mt-4 mb-4">
-                  <div className="flex flex-col md:flex-row md:items-baseline justify-between pt-1">
-                    <div className="text-xl md:text-2xl text-white font-semibold">Finance & Strategy Intern</div>
-                    <span className="text-white/60 text-base font-normal">Jun 2026 - Present</span>
-                  </div>
-                </div>
+              </div>
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
