@@ -335,16 +335,9 @@ export default function App() {
                   </div>
                 </div>
                 <div className="space-y-3 mt-4 mb-4">
-                  <div className="flex flex-col md:flex-row md:items-baseline justify-between">
-                    <div className="text-xl md:text-2xl text-white font-semibold"> Strategic Finance Analyst Co-op </div>
-                    <span className="text-white/60 text-base font-normal">Aug 2026 - Present</span>
-                  </div>
-                  <ul className="mt-2 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
-                    <li className="text-white/80 text-lg pl-6 relative timeline-bullet">Financial Analysis & Product Development</li>
-                  </ul>
                   <div className="flex flex-col md:flex-row md:items-baseline justify-between pt-1">
                     <div className="text-xl md:text-2xl text-white font-semibold">Finance & Strategy Intern</div>
-                    <span className="text-white/60 text-base font-normal">Jun 2026 - Aug 2026</span>
+                    <span className="text-white/60 text-base font-normal">Jun 2026 - Present</span>
                   </div>
                 </div>
               
