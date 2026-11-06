@@ -350,25 +350,19 @@ export default function App() {
               
               <ul className="mt-6 pl-5 border-l-2 border-white/10 ml-2 space-y-4">
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Collaborated with client leadership and internal project teams across 3+ nonprofit engagements, interviewing stakeholders to understand financial priorities and operating challenges and align project work with client needs
+                  Supported revenue forecasting and pricing decisions across 10 service lines by analyzing 3 years of historical data, benchmarking competitor pricing, and modeling base, upside, and downside scenarios
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Conducted financial health assessment for a nonprofit client (representing over $5M in operating budget), using Excel to analyze 3 years of financial statements, 8+ liquidity, profitability, and operating ratios to identify financial risks and develop executive recommendations
+                  Delivered financial analysis and executive recommendations for 2+ nonprofit clients with combined operating budgets exceeding $5M by interpreting 3 years of financial statements and evaluating 8+ financial and operating ratios
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Designed an AI-assisted research workflow using Claude and ChatGPT to extract and organize benchmarking data from 20+ nonprofit industry reports and regulatory filings, reducing research time by 30% while validating outputs against primary sources
-                </li>
-                 <p className="text-white text-xl font-semibold italic mt-5 mb-3">
-                  BRIDGE Project: Strategic Pricing & Revenue Forecasting Framework
-                </p>
+                  Reduced quote preparation time by 60% by implementing an internal pricing tool with LLM API integration, automating manual pricing tasks to support sales and financial decision-making
+                </li> 
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Partnered with internal stakeholders to analyze 3 years of historical pricing and financial data across 10 consulting service lines, comparing BBS service rates and pricing structures against competitors to identify underpriced offerings and key revenue drivers
+                  Cut research time by 30% by using Claude and ChatGPT to organize findings from 20+ industry reports and regulatory filings, verifying AI-generated outputs against primary sources for accuracy
                 </li>
                 <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Developed an Excel revenue forecasting model using 7 pricing assumptions and 3 market-penetration scenarios to project base, upside, and downside revenue outcomes and quantify the financial impact of proposed pricing changes
-                </li>
-                <li className="text-white/80 text-lg pl-6 relative timeline-bullet">
-                  Built an internal pricing interface tool using LLM API integration to automate service pricing and generate real-time client estimates, reducing quote preparation time by 60% and manual pricing work by 40%
+                  Aligned financial analysis with stakeholder needs across 3+ nonprofit projects by interviewing client leadership, identifying business priorities, and coordinating project scope and deliverables with internal teams
                 </li>
               </ul>
             </motion.div>
